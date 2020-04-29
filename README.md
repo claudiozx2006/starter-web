@@ -10,6 +10,10 @@ Sample website with plenty of files for demos
 
 WORKING
 
+## How To Contribute
+
+Please Fork this repository
+
 ### Copyright
 
 2020 Git Tranings
