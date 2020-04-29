@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Claudio Zamboni claudio.zamboni@csi.it
 
 # THANKS
 
